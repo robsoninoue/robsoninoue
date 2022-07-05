@@ -1,5 +1,5 @@
 
-## Hi there 👋
+# Hi :smiley:
 
 [![Robson's GitHub stats](https://github-readme-stats.vercel.app/api?username=robsoninoue&count_private=true&show_icons=true&theme=tokyonight&bg_color=DEG,200244,000000)](https://github.com/anuraghazra/github-readme-stats)
 
