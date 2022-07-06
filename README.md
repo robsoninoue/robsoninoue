@@ -163,11 +163,11 @@ I have worked with php, C, Js, CSS, HTML, MySQL, node, React, WordPress, git, TS
 
 ### Sources
 
-https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
-    https://gist.github.com/rxaviers/7360908
-    https://zzetao.github.io/awesome-github-profile/
-    https://github.com/abhisheknaiidu/awesome-github-profile-readme
-    https://www.markdownguide.org/basic-syntax/
+https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969  
+https://gist.github.com/rxaviers/7360908  
+https://zzetao.github.io/awesome-github-profile/  
+https://github.com/abhisheknaiidu/awesome-github-profile-readme  
+https://www.markdownguide.org/basic-syntax/
 
 ---
 
