@@ -4,64 +4,69 @@
 
 # Hi :smiley:
 
-[intro](#intro) | [about-me](#about-me) | [contact-me](#contacts) | [my gh status](#gh-status) | [most languages](#most-languages) | [gh contributions](#gh-contributions) | [stacks](#stacks) | [sources](#sources)
+[intro](#intro) | [about](#little-bit-about-me) | [contact](#how-to-reach-me) | [my gh status](#gh-status) | [stacks](#some-stacks-that-i-know-or-studying) | [sources](#sources)
 
-### :boat: Welcome aboard! I'm Robson and together we can navigate in almost all corners of the world called develloping. We'll discover new places and languages, but not only in calm ocean :ocean:, often thunderstorms :zap: will cross our way. Sometimes we'll be ready, others don't! {#intro}
+###### intro
+
+### :boat: Welcome aboard! I'm Robson and together we can navigate in almost all corners of the world called develloping. We'll discover new places and languages, but not only in calm ocean :ocean:, often thunderstorms :zap: will cross our way. Sometimes we'll be ready, others don't!
 
 ### But, don't affraid! :hankey: happen :joy: and we can restart, again and again...
 
-## Here and me are a work in progress
+## This profile and me are a work in progress. We're in constant evolve.
 
 ---
 
-### Little bit **About me** {#about-me}
+### Little bit **About me**
 
-I'm cadet @[42](https://42.fr), a software engineer school that breaks the traditional paradigms of education. There **we learn to learn**. 
+I'm cadet @ [![42SP](https://img.shields.io/static/v1?label=&message=SP&color=blueviolet&logo=42&style=)](https://42.fr/en/network-42/), a software engineer school that breaks the traditional paradigms of education. There **we learn to learn**. 
 
 Also I work with networks, servers and systems and a time ago started in a developer world. I can work with moderns and not too moderns languages :joy:
 
 I have worked with php, C, Js, CSS, HTML, MySQL, node, React, WordPress, git, TS, and others. Some more, some less.
 
-### How to reach me {#contact}
+### How to reach me
 
 |||
 | --- | --- |
-| ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) | Robson#1614 |
+| ![42SP](https://img.shields.io/static/v1?label=&message=SaoPaulo&color=blueviolet&logo=42&style=for-the-badge) | rotakesh |
+| ![Discord](https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) | Robson#1614 |
 | ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) | [robson-inoue](https://br.linkedin.com/in/robson-inoue) |
 | ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) | RobsonIn |
 
+## GH-Status
+
 ||
 | :---: |
-| [![Robson's GitHub stats](https://github-readme-stats.vercel.app/api?username=robsoninoue&count_private=true&show_icons=true&theme=tokyonight&bg_color=DEG,200244,000000)](https://github.com/anuraghazra/github-readme-stats){#gh-status} |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsoninoue&layout=compact&theme=tokyonight&bg_color=DEG,200244,000000&langs_count=10)](https://github.com/anuraghazra/github-readme-stats){#most-languages} |
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robsoninoue&theme=tokyonight&background=200244)](https://git.io/streak-stats){#gh-contributions} |
+| [![Robson's GitHub stats](https://github-readme-stats.vercel.app/api?username=robsoninoue&count_private=true&show_icons=true&theme=tokyonight&bg_color=DEG,200244,000000)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsoninoue&layout=compact&theme=tokyonight&bg_color=DEG,200244,000000&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robsoninoue&theme=tokyonight&background=200244)](https://git.io/streak-stats) |
 
 ---
 
-## Some **Stacks** that I know or studying {#stacks}
+## Some **Stacks** that I know or studying
 
 ### Programing
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Versioning
 
@@ -156,17 +161,17 @@ I have worked with php, C, Js, CSS, HTML, MySQL, node, React, WordPress, git, TS
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white)
 
-### Sources {#sources}
+### Sources
 
 https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
+    https://gist.github.com/rxaviers/7360908
+    https://zzetao.github.io/awesome-github-profile/
+    https://github.com/abhisheknaiidu/awesome-github-profile-readme
+    https://www.markdownguide.org/basic-syntax/
 
-https://gist.github.com/rxaviers/7360908
+---
 
-https://zzetao.github.io/awesome-github-profile/
-
-https://github.com/abhisheknaiidu/awesome-github-profile-readme
-
-https://www.markdownguide.org/basic-syntax/
+[intro](#intro) | [about](#little-bit-about-me) | [contact](#how-to-reach-me) | [my gh status](#gh-status) | [stacks](#some-stacks-that-i-know-or-studying) | [sources](#sources)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsoninoue&repo=moveit&theme=tokyonight&bg_color=DEG,200244,000000)](https://github.com/anuraghazra/github-readme-stats) -->
 
