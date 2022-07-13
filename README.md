@@ -4,7 +4,7 @@
 
 # Hi :smiley:
 
-[intro](#intro) | [about](#little-bit-about-me) | [contact](#how-to-reach-me) | [my gh status](#gh-status) | [stacks](#some-stacks-that-i-know-or-studying) | [sources](#sources)
+[intro](#intro) | [about](#little-bit-about-me) | [contact](#how-to-reach-me) | [my gh status](#gh-status) | [stacks](#some-stacks-that-i-like-know-study-or-use) | [sources](#sources)
 
 ###### intro
 
