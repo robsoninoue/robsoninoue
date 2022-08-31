@@ -26,11 +26,11 @@ I have worked with php, C, Js, CSS, HTML, MySQL, node, React, WordPress, git, TS
 
 ### How to reach me
 
-| ![42SP](https://img.shields.io/static/v1?label=&message=SaoPaulo&color=blueviolet&logo=42&style=for-the-badge) | rotakesh |
+| [![42SP](https://img.shields.io/static/v1?label=&message=SaoPaulo&color=blueviolet&logo=42&style=for-the-badge)](https://profile.intra.42.fr/users/rotakesh) | rotakesh |
 | --- | --- |
-| ![Discord](https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) | Robson#1614 |
-| ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) | [robson-inoue](https://br.linkedin.com/in/robson-inoue) |
-| ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) | RobsonIn |
+| [![Discord](https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/robsoninoue) | Robson#1614 |
+| [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/robson-inoue) | [robson-inoue](https://br.linkedin.com/in/robson-inoue) |
+| [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]() | RobsonIn |
 
 ## GH-Status
 
@@ -43,7 +43,6 @@ I have worked with php, C, Js, CSS, HTML, MySQL, node, React, WordPress, git, TS
 
 ## Commits
 
-![snake animation](https://github.com/robsoninoue)
 ![Snake animation](https://github.com/robsoninoue/robsoninoue/blob/output/github-contribution-grid-snake.svg)
 
 ---
