@@ -28,9 +28,11 @@ I have worked with php, C, Js, CSS, HTML, MySQL, node, React, WordPress, git, TS
 
 ||||||
 | --- | --- | --- | --- | --- |
-| [![42SP](https://img.shields.io/static/v1?label=&message=SaoPaulo&color=blueviolet&logo=42&style=for-the-badge)](https://profile.intra.42.fr/users/rotakesh) | rotakesh | | [![Discord](https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com) | Robson#1614 |
-| [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/robson-inoue) | [robson-inoue](https://br.linkedin.com/in/robson-inoue) | | [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RobsonIn) | RobsonIn |
+| [![42SP](https://img.shields.io/static/v1?label=&message=SaoPaulo&color=blueviolet&logo=42&style=for-the-badge)](https://profile.intra.42.fr/users/rotakesh) | [rotakesh](https://profile.intra.42.fr/users/rotakesh) | | [![Discord](https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com) | Robson#1614 |
+| [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/robson-inoue) | [robson-inoue](https://br.linkedin.com/in/robson-inoue) | | [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RobsonIn) | [RobsonIn](https://t.me/RobsonIn) |
 ||||||
+
+---
 
 ## GH-Status
 
@@ -92,7 +94,7 @@ https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
 https://gist.github.com/rxaviers/7360908  
 https://zzetao.github.io/awesome-github-profile/  
 https://github.com/abhisheknaiidu/awesome-github-profile-readme  
-https://www.markdownguide.org/basic-syntax/
+https://www.markdownguide.org/basic-syntax
 https://github.com/rafaballerini
 
 ---
