@@ -4,7 +4,7 @@
 
 # Hi :smiley:
 
-[intro](#intro) | [about](#little-bit-about-me) | [contact](#how-to-reach-me) | [my gh status](#gh-status) | [stacks](#some-stacks-that-i-like-know-study-or-use) | [sources](#sources)
+[intro](#intro) | [about](#little-bit-about-me) | [contact](#how-to-reach-me) | [my gh status](#gh-status) | [commits](#commits) | [stacks](#some-stacks-that-i-like-know-study-or-use) | [sources](#sources)
 
 ###### intro
 
@@ -26,10 +26,8 @@ I have worked with php, C, Js, CSS, HTML, MySQL, node, React, WordPress, git, TS
 
 ### How to reach me
 
-|||
-| --- | --- |
-| !(https://img.shields.io/static/v1?label=&message=SaoPaulo&color=blueviolet&logo=42&style=for-the-badge) | rotakesh |
 | ![42SP](https://img.shields.io/static/v1?label=&message=SaoPaulo&color=blueviolet&logo=42&style=for-the-badge) | rotakesh |
+| --- | --- |
 | ![Discord](https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) | Robson#1614 |
 | ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) | [robson-inoue](https://br.linkedin.com/in/robson-inoue) |
 | ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) | RobsonIn |
@@ -42,6 +40,10 @@ I have worked with php, C, Js, CSS, HTML, MySQL, node, React, WordPress, git, TS
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsoninoue&layout=compact&theme=tokyonight&bg_color=DEG,200244,000000&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) |
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robsoninoue&theme=tokyonight&background=200244)](https://git.io/streak-stats) |
 
+
+## Commits
+
+![snake animation](https://github.com/robsoninoue)
 ---
 
 ## Some **Stacks** that I like, know, study, or use.
@@ -172,7 +174,7 @@ https://www.markdownguide.org/basic-syntax/
 
 ---
 
-[intro](#intro) | [about](#little-bit-about-me) | [contact](#how-to-reach-me) | [my gh status](#gh-status) | [stacks](#some-stacks-that-i-know-or-studying) | [sources](#sources)
+[intro](#intro) | [about](#little-bit-about-me) | [contact](#how-to-reach-me) | [my gh status](#gh-status) | [commits](#commits) [stacks](#some-stacks-that-i-like-know-study-or-use) | [sources](#sources)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsoninoue&repo=moveit&theme=tokyonight&bg_color=DEG,200244,000000)](https://github.com/anuraghazra/github-readme-stats) -->
 
