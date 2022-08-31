@@ -44,6 +44,8 @@ I have worked with php, C, Js, CSS, HTML, MySQL, node, React, WordPress, git, TS
 ## Commits
 
 ![snake animation](https://github.com/robsoninoue)
+![Snake animation](https://github.com/robsoninoue/robsoninoue/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## Some **Stacks** that I like, know, study, or use.
@@ -171,10 +173,11 @@ https://gist.github.com/rxaviers/7360908
 https://zzetao.github.io/awesome-github-profile/  
 https://github.com/abhisheknaiidu/awesome-github-profile-readme  
 https://www.markdownguide.org/basic-syntax/
+httsp://github.com/rafaballerini
 
 ---
 
-[intro](#intro) | [about](#little-bit-about-me) | [contact](#how-to-reach-me) | [my gh status](#gh-status) | [commits](#commits) [stacks](#some-stacks-that-i-like-know-study-or-use) | [sources](#sources)
+[intro](#intro) | [about](#little-bit-about-me) | [contact](#how-to-reach-me) | [my gh status](#gh-status) | [commits](#commits) | [stacks](#some-stacks-that-i-like-know-study-or-use) | [sources](#sources)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsoninoue&repo=moveit&theme=tokyonight&bg_color=DEG,200244,000000)](https://github.com/anuraghazra/github-readme-stats) -->
 
