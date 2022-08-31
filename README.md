@@ -28,6 +28,7 @@ I have worked with php, C, Js, CSS, HTML, MySQL, node, React, WordPress, git, TS
 
 |||
 | --- | --- |
+| !(https://img.shields.io/static/v1?label=&message=SaoPaulo&color=blueviolet&logo=42&style=for-the-badge) | rotakesh |
 | ![42SP](https://img.shields.io/static/v1?label=&message=SaoPaulo&color=blueviolet&logo=42&style=for-the-badge) | rotakesh |
 | ![Discord](https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) | Robson#1614 |
 | ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) | [robson-inoue](https://br.linkedin.com/in/robson-inoue) |
