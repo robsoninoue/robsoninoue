@@ -10,8 +10,6 @@
 
 ### :boat: Welcome aboard! I'm Robson and together we can navigate in almost all corners of the world called develloping. We'll discover new places and languages, but not only in calm ocean :ocean:, often thunderstorms :zap: will cross our way. Sometimes we'll be ready, others don't!
 
-### But, don't affraid! :hankey: happen :joy: and we can restart, again and again...
-
 ## This profile and me are a work in progress. We're in constant evolve.
 
 ---
@@ -22,7 +20,9 @@ I'm cadet @ [![42SP](https://img.shields.io/static/v1?label=&message=SP&color=bl
 
 Also I work with networks, servers and systems and a time ago started in a developer world. I can work with moderns and not too moderns languages :joy:
 
-I have worked with php, C, Js, CSS, HTML, MySQL, node, React, WordPress, git, TS, and others. Some more, some less.
+I have worked with php, C, Js, CSS, HTML, MySQL, node, React, WordPress, git, TS, Python, and others. Some more, some less.
+
+Currently working on .Net, Python, Angular, Kafka and MS SQL Server in a partnership project from 42 Labs.
 
 ### How to reach me
 
@@ -61,6 +61,11 @@ I have worked with php, C, Js, CSS, HTML, MySQL, node, React, WordPress, git, TS
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/robsoninoue)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/robsoninoue)
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/robsoninoue)
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)](https://github.com/robsoninoue)
+[![DotNet](https://img.shields.io/badge/.Net-blue?style=for-the-badge&logo=dotnet)](https://github.com/robsoninoue)
+[![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)](https://github.com/robsoninoue)
+[![Apache Kafka](https://img.shields.io/badge/Apache--Kafka-blue?style=for-the-badge&logo=apachekafka)](https://github.com/robsoninoue)
+
 
 ### Versioning
 
@@ -73,6 +78,8 @@ I have worked with php, C, Js, CSS, HTML, MySQL, node, React, WordPress, git, TS
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://github.com/robsoninoue)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/robsoninoue)
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/robsoninoue)
+[![Microsoft SQL Server](https://img.shields.io/badge/sqlserver-%23CC2927?style=for-the-badge&logo=microsoftsqlserver)](https://github.com/robsoninoue)
+[![PostgreSQL](https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql)](https://github.com/robsoninoue)
 
 ### Image, video and sound editors
 
