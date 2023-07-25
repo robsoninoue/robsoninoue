@@ -44,7 +44,7 @@ I have worked with php, C, Js, CSS, HTML, MySQL, node, React, WordPress, git, TS
 
 ## Commits
 
-[![Snake animation](https://github.com/robsoninoue/robsoninoue/blob/output/github-contribution-grid-snake.svg)](https://github.com/robsoninoue)
+[![Snake animation](https://github.com/robsoninoue/robsoninoue/blob/output/github-contribution-grid-snake-dark.svg)](https://github.com/robsoninoue)
 
 ---
 
